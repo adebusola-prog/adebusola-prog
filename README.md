@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @adebusola-prog
-- 👀 I’m interested in backend development
-- 🌱 I’m a Django developer
-- 🌱 Highly interested in Open source Contribution
-- 💞️ I’m looking to collaborate on .software development.
+- 👋 Hi, I’m Adebusola
+- 👀 I’m a python developer
+- 🌱 I'm highly interested in Open source Contribution
+- 💞️ I’m innovative and loves innovation
 - 📫 How to reach me- adebusolayeye@gmail.com
 
 <!---
